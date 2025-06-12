@@ -1,0 +1,13 @@
+"Trait","Effect","F_value","P_value"
+"node_number","N",1.863,0.178
+"node_number","gene",6.753,0
+"node_number","N:gene",2.03,0.045
+"underbiomass","N",1.381,0.246
+"underbiomass","gene",4.58,0
+"underbiomass","N:gene",1.63,0.121
+"abovebiomass","N",0.799,0.376
+"abovebiomass","gene",2.599,0.011
+"abovebiomass","N:gene",1.38,0.212
+"totalbiomass","N",1.346,0.252
+"totalbiomass","gene",2.166,0.033
+"totalbiomass","N:gene",1.029,0.437
