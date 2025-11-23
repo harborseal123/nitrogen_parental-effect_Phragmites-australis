@@ -1,0 +1,13 @@
+"Trait","Effect","df","Chisq","P_value"
+"rhizome_length","N",1,0.15,0.699
+"rhizome_length","gene",11,19.985,0.046
+"rhizome_length","N:gene",10,12.809,0.235
+"underbiomass","N",1,0.004,0.947
+"underbiomass","gene",11,24.955,0.009
+"underbiomass","N:gene",10,29.029,0.001
+"abovebiomass","N",1,0.589,0.443
+"abovebiomass","gene",11,36.572,0
+"abovebiomass","N:gene",10,25.884,0.004
+"totalbiomass","N",1,0.27,0.603
+"totalbiomass","gene",11,19.562,0.052
+"totalbiomass","N:gene",10,27.857,0.002

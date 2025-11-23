@@ -1,0 +1,13 @@
+"Trait","Effect","df","Chisq","P_value"
+"node_number","N",1,1.901,0.168
+"node_number","gene",11,75.006,0
+"node_number","N:gene",11,22.71,0.019
+"underbiomass","N",1,1.401,0.237
+"underbiomass","gene",11,50.397,0
+"underbiomass","N:gene",11,18.01,0.081
+"abovebiomass","N",1,0.799,0.371
+"abovebiomass","gene",11,28.59,0.003
+"abovebiomass","N:gene",11,15.178,0.174
+"totalbiomass","N",1,1.346,0.246
+"totalbiomass","gene",11,23.826,0.013
+"totalbiomass","N:gene",11,11.317,0.417
